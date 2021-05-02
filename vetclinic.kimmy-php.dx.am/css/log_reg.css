@@ -1,0 +1,65 @@
+.error {color: #FF0000;}
+
+body{
+	background-color: black;
+	color: white;
+}
+input[type=text], input[type = password], input[type = number], select {
+     width: 50%;
+    display: inline-block;
+  float: left;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+	margin-right: 10px;
+	 text-align: center;
+	 
+    
+}
+
+
+
+input[type=submit] {
+    width: 50%;
+    background-color: Black;
+    color: white;
+    padding: 14px 20px;
+    
+    border: 1px solid White;
+    border-radius: 4px;
+    cursor: pointer;
+	display: block;
+    margin: 1.0em auto;
+    text-align: center;
+}
+
+fieldset {
+	border: 3px solid pink;
+  width: 400px;
+  margin:auto;
+  
+	
+	}
+	
+	legend {
+		
+	 border: medium none;
+    margin-left: 40%;
+    padding: 0 10px;
+    position: relative;
+    text-align: center;
+    width: auto;
+    color: #3C6EAC;
+    font-size: 18px;
+    font-weight: bold;
+	float:center;
+}
+h1{
+
+color: white;
+    text-align: center;
+}
+
+p{
+	text-align: center;
+}
