@@ -1,0 +1,15 @@
+body{width:auto; height: auto; font-family:calibri; }
+
+.txt-heading{    
+	padding: 10px 10px;
+    border-radius: 2px;
+    color: #330014;
+    background: #d1e6fa;
+	margin-bottom:10px;
+}
+
+
+.clear-float{clear:both;}
+.demo-input-box{border-radius:2px;border:#CCC 1px solid;padding:2px 1px;}
+.demo-list-box{border-radius:2px;border:#CCC 1px solid;padding:2px 1px;}
+#pet-grid {float: right; margin-bottom:30px;}
